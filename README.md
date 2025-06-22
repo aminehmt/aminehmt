@@ -1,5 +1,5 @@
 # Mohamed Amine Hamiti  
-Cybersecurity & Software Engineering Student | 3rd Year @ USTHB  
+Cybersecurity Student | 3rd Year @ USTHB  
 
 Hi! I'm Mohamed Amine Hamiti — a 3rd year computer engineering student at USTHB, with a strong interest in cybersecurity, software development, and system architecture.  
 
